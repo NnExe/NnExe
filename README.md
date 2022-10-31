@@ -1,10 +1,10 @@
-#Hi, I’m Nikolay
-##Python Backend Developer
+<h2 align="center">Hi, I’m Nikolay</h2>
+<h3 align="center">Python Backend Developer</h3>
 
-🛠️ Stack: 
+<b>🛠️ Stack:</b> 
 - Python, Django, Docker, SQL, Rest API, etc.
 
-📫 Contacts:
+<b>📫 Contacts:</b>
 - Telegram: @NnExe
 - E-mail: nikolai.borovkov@gmail.com
 
